@@ -11,3 +11,6 @@ A simple command line interface (CLI) to fetch the recent activity of a GitHub u
 
 3. exit from terminal
 >:q
+
+here's the project url
+https://roadmap.sh/projects/github-user-activity
